@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8bccc6b073851a4baf5fb3ceb6bcd72, type: 3}
+  m_Name: originFrameSetting
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: UIWindowDataDic
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[KooFrame.UIWindowData,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Prefabs.PanelParent
+    - Name: $v
+      Entry: 7
+      Data: 2|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: PanelParent
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: GameBuild.SettingsPanel
+    - Name: $v
+      Entry: 7
+      Data: 3|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: SettingsPanel
+    - Name: layerNum
+      Entry: 3
+      Data: 0
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: GameBuild.GameStartPanel
+    - Name: $v
+      Entry: 7
+      Data: 4|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: GameStartPanel
+    - Name: layerNum
+      Entry: 3
+      Data: 0
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: GameBuild.MultiPlayerPanel
+    - Name: $v
+      Entry: 7
+      Data: 5|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: MultiPlayerPanel
+    - Name: layerNum
+      Entry: 3
+      Data: 1
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: GameBuild.BskPackagePanel
+    - Name: $v
+      Entry: 7
+      Data: 6|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: BskPackagePanel
+    - Name: layerNum
+      Entry: 3
+      Data: 2
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: GameBuild.RageBarPanel
+    - Name: $v
+      Entry: 7
+      Data: 7|KooFrame.UIWindowData, Assembly-CSharp
+    - Name: isCache
+      Entry: 5
+      Data: true
+    - Name: assetPath
+      Entry: 1
+      Data: RageBarPanel
+    - Name: layerNum
+      Entry: 3
+      Data: 2
+    - Name: instance
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  resourcesSystemType: 0
+  SaveSystemType: 0

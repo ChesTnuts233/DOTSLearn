@@ -1,0 +1,67 @@
+//****************** 代码文件申明 ************************
+//* 文件：#SCRIPTNAME#                                       
+//* 作者：#AUTHORNAME#
+//* 创建时间：#CREATETIME#
+//* 描述：物品的状态
+//*****************************************************
+
+using UnityEngine;
+using System;
+using System.Collections.Generic;
+
+namespace GameBuild
+{
+    public class #SCRIPTNAME# : IItemState
+    {
+        private ItemBase manager;
+        private ItemProperty itemProperty;
+
+        //构造器
+        public #SCRIPTNAME#(ItemBase manager)
+        {
+            this.manager = manager;
+            this.itemProperty = manager.itemProperty;
+        }
+
+        //进入状态时调用
+        public void OnEnter()
+        {
+
+        }
+
+        //离开状态时调用
+        public void OnExit()
+        {
+
+        }
+
+        //FixedUpdate时调用
+        public void OnFixedUpdate()
+        {
+
+        }
+
+        //Update时调用
+        public void OnUpdate()
+        {
+
+        }
+
+        public void OnTriggerEnter(Collider2D collision)
+        {
+
+        }
+
+        public void OnTriggerExit(Collider2D collision)
+        {
+
+        }
+
+        public void OnTriggerStay(Collider2D collision)
+        {
+
+        }
+
+    }
+}
+

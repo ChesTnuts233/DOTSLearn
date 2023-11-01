@@ -1,0 +1,39 @@
+//****************** 测试代码文件申明 ********************
+//* 文件：#SCRIPTNAME#                                       
+//* 作者：#AUTHORNAME#
+//* 创建时间：#CREATETIME#
+//* 测试功能：(测试用)Nothing 
+//*****************************************************
+
+using GameFrame;
+using UnityEngine;
+using KooFrame.BaseSystem;
+using System;
+using System.Collections.Generic;
+
+namespace GameTest
+{
+    public class #SCRIPTNAME# : KooMonoBehaviour
+    {
+        private void Awake()
+        {
+            
+        }
+    
+        private void Start()
+        {
+            
+        }
+    
+        private void Update()
+        {
+            
+        }
+    
+        protected override void BeforeOnDestroy()
+        {
+               //Nothing to Do
+        }
+    }
+}
+

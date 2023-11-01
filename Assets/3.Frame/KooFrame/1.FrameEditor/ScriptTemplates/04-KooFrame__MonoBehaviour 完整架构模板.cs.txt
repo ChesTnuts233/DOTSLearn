@@ -1,0 +1,51 @@
+//****************** 代码文件申明 ***********************
+//* 文件：#SCRIPTNAME#                                       
+//* 作者：#AUTHORNAME#
+//* 创建时间：#CREATETIME#
+//* 描述：
+//*****************************************************
+using UnityEngine;
+using System;
+using System.Collections.Generic;
+
+namespace GameBuild
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        #region 字段
+        
+        
+        #endregion
+
+        #region #SCRIPTNAME#生命周期
+
+        private void Awake()
+        {
+            
+        }
+
+        private void Start()
+        {
+            
+        }
+
+        private void Update()
+        {
+            
+        }
+
+        #endregion
+
+        #region #SCRIPTNAME#功能
+
+        private void Init()
+        {
+            //#SCRIPTNAME#初始化
+        }
+
+
+        #endregion
+        
+    }
+}
+

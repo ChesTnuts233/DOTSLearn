@@ -1,0 +1,33 @@
+//****************** 代码文件申明 ***********************
+//* 文件：#SCRIPTNAME#
+//* 作者：#AUTHORNAME#
+//* 作者：#AUTHORNAME#
+//* 创建时间：#CREATETIME#
+//* 描述：
+//*****************************************************
+using UnityEngine;
+using KooFrame.BaseSystem;
+using BehaviorDesigner.Runtime.Tasks;
+using UnityEngine.InputSystem.EnhancedTouch;
+using BehaviorDesigner.Runtime;
+using DG.Tweening;
+using GameBuild;
+namespace GameBuild
+{
+    public class #SCRIPTNAME#: Action
+    {
+       
+        [SerializeField] private EnemyBaseController controller;
+       
+        public override void OnStart()
+        {
+            controller = transform.GetComponent<EnemyBaseController>();
+        }
+
+        public override TaskStatus OnUpdate()
+        {
+            return TaskStatus.Success;
+        }
+        
+    }
+}
