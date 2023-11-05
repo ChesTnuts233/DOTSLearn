@@ -1,0 +1,4 @@
+repository "ECS_Dots@chestnuts2333-gmail-com@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

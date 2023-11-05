@@ -1,0 +1,14 @@
+/Library
+/Logs
+/Temp
+/obj
+/UnityLog
+/.vs
+/*.csproj
+/*.sln
+/UserSettings
+/ProjectSettings/ProjectVersion.txt
+.idea/.idea.DaXiGua/.idea/.gitignore
+.idea/.idea.DaXiGua/.idea/encodings.xml
+.idea/.idea.DaXiGua/.idea/indexLayout.xml
+.idea/.idea.DaXiGua/.idea/vcs.xml
